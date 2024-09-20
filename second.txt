@@ -1,0 +1,3 @@
+This is my second repository 
+something wit ssh- not sure what that is.
+will try to make sense of this and not just follow along some tutorial
